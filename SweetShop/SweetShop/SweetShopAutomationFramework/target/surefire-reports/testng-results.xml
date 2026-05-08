@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-08T15:25:37 IST" name="SweetShopAutomationSuite" finished-at="2026-05-08T15:26:38 IST" duration-ms="61074">
+    <groups>
+    </groups>
+    <test started-at="2026-05-08T15:25:37 IST" name="SweetShopTests" finished-at="2026-05-08T15:26:38 IST" duration-ms="61074">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@59d016c9]" started-at="2026-05-08T15:25:37 IST" name="setup" finished-at="2026-05-08T15:25:49 IST" duration-ms="12425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginPage()[pri:0, instance:tests.LoginTests@59d016c9]" started-at="2026-05-08T15:25:49 IST" name="verifyLoginPage" finished-at="2026-05-08T15:25:51 IST" duration-ms="1375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTests@59d016c9]" started-at="2026-05-08T15:25:51 IST" name="tearDown" finished-at="2026-05-08T15:25:51 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTests -->
+      <class name="tests.NavigationTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NavigationTests@4a22f9e2]" started-at="2026-05-08T15:26:26 IST" name="setup" finished-at="2026-05-08T15:26:33 IST" duration-ms="6919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyMainNavigationLinks()[pri:0, instance:tests.NavigationTests@4a22f9e2]" started-at="2026-05-08T15:26:33 IST" name="verifyMainNavigationLinks" finished-at="2026-05-08T15:26:37 IST" duration-ms="4099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMainNavigationLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.NavigationTests@4a22f9e2]" started-at="2026-05-08T15:26:37 IST" name="tearDown" finished-at="2026-05-08T15:26:38 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.NavigationTests -->
+      <class name="tests.BasketTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BasketTests@4b5d6a01]" started-at="2026-05-08T15:26:02 IST" name="setup" finished-at="2026-05-08T15:26:13 IST" duration-ms="11687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBasketCheckoutFormDisplays()[pri:0, instance:tests.BasketTests@4b5d6a01]" started-at="2026-05-08T15:26:13 IST" name="verifyBasketCheckoutFormDisplays" finished-at="2026-05-08T15:26:14 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBasketCheckoutFormDisplays -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BasketTests@4b5d6a01]" started-at="2026-05-08T15:26:14 IST" name="tearDown" finished-at="2026-05-08T15:26:15 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BasketTests@4b5d6a01]" started-at="2026-05-08T15:26:15 IST" name="setup" finished-at="2026-05-08T15:26:24 IST" duration-ms="9503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBasketUpdatesAfterAddingProduct()[pri:0, instance:tests.BasketTests@4b5d6a01]" started-at="2026-05-08T15:26:24 IST" name="verifyBasketUpdatesAfterAddingProduct" finished-at="2026-05-08T15:26:26 IST" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBasketUpdatesAfterAddingProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BasketTests@4b5d6a01]" started-at="2026-05-08T15:26:26 IST" name="tearDown" finished-at="2026-05-08T15:26:26 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.BasketTests -->
+      <class name="tests.ProductTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ProductTests@3d680b5a]" started-at="2026-05-08T15:25:51 IST" name="setup" finished-at="2026-05-08T15:25:59 IST" duration-ms="8439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductsPageDisplaysSweetItems()[pri:0, instance:tests.ProductTests@3d680b5a]" started-at="2026-05-08T15:25:59 IST" name="verifyProductsPageDisplaysSweetItems" finished-at="2026-05-08T15:26:01 IST" duration-ms="1889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPageDisplaysSweetItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ProductTests@3d680b5a]" started-at="2026-05-08T15:26:01 IST" name="tearDown" finished-at="2026-05-08T15:26:02 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ProductTests -->
+    </test> <!-- SweetShopTests -->
+  </suite> <!-- SweetShopAutomationSuite -->
+</testng-results>

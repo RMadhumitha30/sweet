@@ -1,0 +1,5 @@
+utilities\DriverFactory.class
+pages\NavigationPage.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\BasketPage.class

@@ -1,0 +1,5 @@
+base\BaseTest.class
+tests\NavigationTests.class
+tests\BasketTests.class
+tests\LoginTests.class
+tests\ProductTests.class
